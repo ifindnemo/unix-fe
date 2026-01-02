@@ -1,4 +1,7 @@
-# UniX: Hệ Thống Hỗ Trợ Tư Vấn Tuyển Sinh Thông Minh
+# SMART ENROLLMENT ASSISTANCE: A Predictive AI Chatbot for University Admission Insights and Data Visualization
+**Thời gian thực hiện: 2024 - 2025 | Dự án đạt giải Nhì tại Hội nghị Sinh viên Nghiên cứu Khoa học DUE**
+
+---
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d9810b7e-643a-4957-837b-f98ccfff73cb" width="850" alt="UniX Banner"/>
@@ -65,3 +68,20 @@ Dự án sử dụng kiến trúc linh hoạt, kết hợp giữa cơ sở dữ 
   <img src="https://github.com/user-attachments/assets/18f73315-4bb3-492c-b1e8-06708a658c4e" width="48%" alt="Chatbot UI"/>
   <img src="https://github.com/user-attachments/assets/f60e1637-e38c-4544-826f-260f2582a28f" width="48%" alt="Chatbot Response"/>
 </p>
+
+---
+
+## 📄 Tài liệu dự án (Documents)
+
+Thông tin chi tiết về quy trình nghiên cứu, phân tích hệ thống và hướng dẫn vận hành dự án có sẵn trong tệp dưới đây:
+
+* 📘 **[UniX-Smart-enrollment-assistance.docx](./UniX-Smart-enrollment-assistance.docx)** (Vui lòng tải xuống để xem chi tiết bản thiết kế và giải pháp của dự án)
+
+---
+
+## ⚠️ Lưu ý về việc chia sẻ mã nguồn (Note on Code Availability)
+
+> [!IMPORTANT]
+> **Mã nguồn của dự án này hiện tại không được công khai** nhằm bảo vệ quyền sở hữu trí tuệ và phục vụ cho các mục tiêu thương mại hóa trong tương lai. Đối với các yêu cầu cộng tác hoặc tìm hiểu sâu hơn về kỹ thuật, vui lòng liên hệ trực tiếp với đội ngũ phát triển dự án.
+
+---
