@@ -75,7 +75,7 @@ Dự án sử dụng kiến trúc linh hoạt, kết hợp giữa cơ sở dữ 
 
 Thông tin chi tiết về quy trình nghiên cứu, phân tích hệ thống và hướng dẫn vận hành dự án có sẵn trong tệp dưới đây:
 
-* **[UniX-Smart-enrollment-assistance.docx](./UniX-Smart-enrollment-assistance.docx)** (Vui lòng tải xuống để xem chi tiết bản thiết kế và giải pháp của dự án)
+* **[UniX-Smart-enrollment-assistance.docx](./UniX-Smart-enrollment-assistance.pdf)** (Vui lòng tải xuống để xem chi tiết bản thiết kế và giải pháp của dự án)
 
 ---
 
