@@ -71,15 +71,15 @@ Dự án sử dụng kiến trúc linh hoạt, kết hợp giữa cơ sở dữ 
 
 ---
 
-## 📄 Tài liệu dự án (Documents)
+## Tài liệu dự án
 
 Thông tin chi tiết về quy trình nghiên cứu, phân tích hệ thống và hướng dẫn vận hành dự án có sẵn trong tệp dưới đây:
 
-* 📘 **[UniX-Smart-enrollment-assistance.docx](./UniX-Smart-enrollment-assistance.docx)** (Vui lòng tải xuống để xem chi tiết bản thiết kế và giải pháp của dự án)
+* **[UniX-Smart-enrollment-assistance.docx](./UniX-Smart-enrollment-assistance.docx)** (Vui lòng tải xuống để xem chi tiết bản thiết kế và giải pháp của dự án)
 
 ---
 
-## ⚠️ Lưu ý về việc chia sẻ mã nguồn (Note on Code Availability)
+## ⚠️ Lưu ý về việc chia sẻ mã nguồn
 
 > [!IMPORTANT]
 > **Mã nguồn của dự án này hiện tại không được công khai** nhằm bảo vệ quyền sở hữu trí tuệ và phục vụ cho các mục tiêu thương mại hóa trong tương lai. Đối với các yêu cầu cộng tác hoặc tìm hiểu sâu hơn về kỹ thuật, vui lòng liên hệ trực tiếp với đội ngũ phát triển dự án.
