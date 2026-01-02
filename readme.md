@@ -8,13 +8,13 @@
 **UniX** là một nền tảng Web hiện đại được thiết kế nhằm giải quyết bài toán định hướng nghề nghiệp và tra cứu thông tin tuyển sinh cho học sinh. Dự án kết hợp giữa **phân tích dữ liệu trực quan**, **trắc nghiệm tâm lý MBTI** và **trợ lý ảo AI** để giúp người dùng đưa ra quyết định chọn trường và ngành học chính xác nhất.
 
 ## Tech Stack (Frontend Focused)
-Dự án được xây dựng với tư duy tối ưu hiệu suất, dễ bảo trì và trải nghiệm người dùng (UX/UI) mượt mà:
+Dự án sử dụng kiến trúc linh hoạt, kết hợp giữa cơ sở dữ liệu quan hệ và phi quan hệ để tối ưu hóa việc lưu trữ:
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Database** | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 
 ---
 
