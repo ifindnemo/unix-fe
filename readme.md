@@ -1,5 +1,5 @@
 # SMART ENROLLMENT ASSISTANCE: A Predictive AI Chatbot for University Admission Insights and Data Visualization
-**Thời gian thực hiện: 2024 - 2025 | Dự án đạt giải Nhì tại Hội nghị Sinh viên Nghiên cứu Khoa học DUE**
+**Thời gian thực hiện: 2024 - 2025 | Dự án đạt giải Nhì tại Hội nghị Sinh viên Nghiên cứu khoa học Khoa Thương mại điện tử - Trường Đại học Kinh tế Đà Nẵng**
 
 ---
 
