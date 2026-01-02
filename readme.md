@@ -32,7 +32,7 @@ Dự án sử dụng kiến trúc linh hoạt, kết hợp giữa cơ sở dữ 
 ---
 
 ### 2. Trắc nghiệm MBTI & Hướng nghiệp
-*Xử lý Logic phức tạp ở Client-side để tính toán kết quả trắc nghiệm và hiển thị gợi ý ngành học phù hợp ngay lập tức.*
+*Xử lý logic phức tạp ở Client-side để tính toán kết quả trắc nghiệm và hiển thị gợi ý ngành học phù hợp ngay lập tức.*
 
 | Trải nghiệm làm bài | Kết quả & Gợi ý ngành học |
 | :---: | :---: |
@@ -59,7 +59,7 @@ Dự án sử dụng kiến trúc linh hoạt, kết hợp giữa cơ sở dữ 
 ---
 
 ### 4. Trợ lý ảo Chatbot AI
-*Giao diện Chat tối ưu, tích hợp AI để phản hồi thông tin tuyển sinh 24/7, mang lại trải nghiệm tư vấn cá nhân hóa.*
+*Giao diện tối ưu, tích hợp AI để phản hồi thông tin tuyển sinh 24/7, kết hợp với chart, mang lại trải nghiệm tư vấn cá nhân hóa.*
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/18f73315-4bb3-492c-b1e8-06708a658c4e" width="48%" alt="Chatbot UI"/>
